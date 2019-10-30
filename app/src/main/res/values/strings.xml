@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Store Manager</string>
+    <string name="action_add">Add Item</string>
+    <string name="action_delete">Delete FUll Data</string>
+    <string name="action_settings">Settings</string>
+    <string name="item_absent">No Item Added in the Database. Please Enter the button in the lower Right to add your first Product.\n\nHappy Data Keeping!</string>
+    <string name="action_about_this_app">About This App</string>
+    <string name="action_generate_bill">Generate Bill</string>
+
+    <string name="example_tex1t">Item Name</string>
+    <string name="examople_text2">Quantity</string>
+    <string name="example_text3">Price</string>
+    <string name="example_text4">ID</string>
+
+    <string name="string_yes">Yes</string>
+    <string name="string_no">No</string>
+
+    <string name="string_item_name">Item Name</string>
+    <string name="string_item_price">Item Price</string>
+    <string name="string_item_quantity">Item Quantity</string>
+    <string name="string_idDiscountAvailable">Discount Available?</string>
+    <string name="string_discount_precentage">Discount Percentage</string>
+    <string name="string_add_item">Add Item</string>
+    <string name="string_supplier_name">Supplier Name</string>
+    <string name="string_supplier_email">Supplier Email</string>
+
+    <string name="string_product_data">Product Data</string>
+    <string name="string_add_product">Add Product</string>
+    <string name="string_order_product">Order</string>
+    <string name="string_delete_product">Delete</string>
+    <string name="string_sell">Sell Product</string>
+    <string name="string_add_image">Add Image</string>
+</resources>
